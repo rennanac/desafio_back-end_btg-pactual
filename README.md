@@ -75,5 +75,11 @@ Exemplo da mensagem que deve ser consumida:
      - Cite no relatório: O seu perfil dockerHub e a(s) URL(s) onde se encontram as imagens geradas
 
 ## Solução do desafio:
--[] Entendendo o desafio.
+### :rocket: Tecnologias utilizadas
+
+* Python
+* FastAPI
+* MongoDB
+* RabbitMQ
+* Docker
 

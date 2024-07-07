@@ -20,7 +20,7 @@ Processar pedidos e gerar relatório.
 1. Elabore e entregue um plano de trabalho.
    - Crie suas atividades em tasks
    - Estime horas
-2. Crie uma aplicação, na tecnologia de sua preferência (JAVA, DOTNET, NODEJS)
+2. Crie uma aplicação, na tecnologia de sua preferência (JAVA, DOTNET, NODEJS. PYTHON)
 3. Modele e implemente uma base de dados (PostgreSQL, MySQL, MongoDB).
 4. Crie um micro serviço que consuma dados de uma fila RabbitMQ e grave os dados para conseguir listar as informações:
    - Valor total do pedido
@@ -73,3 +73,7 @@ Exemplo da mensagem que deve ser consumida:
      - Demais itens que você julgar relevante (Framework ou técnicas de testes, metodologias, etc.)
      - Se foi utilizado o Docker, para montagem do Ambiente, publique em seu perfil do http://hub.docker.com as imagens finais
      - Cite no relatório: O seu perfil dockerHub e a(s) URL(s) onde se encontram as imagens geradas
+
+## Solução do desafio:
+-[] Entendendo o desafio.
+

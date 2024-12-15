@@ -80,8 +80,9 @@ Exemplo da mensagem que deve ser consumida:
 ### :rocket: Tecnologias utilizadas
 
 - Python
-- FastAPI
-- MongoDB
+- Django
+- Celery
+- MySQL
 - RabbitMQ
 - Docker
--
+- Docker compose
